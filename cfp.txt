@@ -1,0 +1,51 @@
+[Call for participation] 6th International School on Software Engineering, Bolzano, Italy
+
+THE 6TH INTERNATIONAL SCHOOL ON SOFTWARE ENGINEERING (ISE School 2020)
+
+** VIRTUAL EVENT **
+
+Theme: AI and Continuous Software Engineering
+=============================================
+
+July 1-3, 2020 Bolzano, South-Tyrol, Italy
+
+https://seschool-series.github.io/2020/
+
+We are pleased to announce ISE School 2020, the 6th International School on Software Engineering. The main theme of this edition is AI and continuous software engineering.
+
+The school is intended for both researchers and practitioners.
+
+Because of the **COVID-19 crisis**, we have decided that ISE 2020 will not take place physically but will be replaced by a virtual event. Participants will remotely join live presentations and interactive sessions as well as recorded videos after the event.
+
+The following speakers are confirmed:
+
+Markus Borg, RISE Research Institutes and Lund University, Sweden
+Andre van Hoorn, University of Stuttgart, Germany
+Michael Pradel, University of Stuttgart, Germany
+Baishakhi Ray, Columbia University, NY, USA
+
+The program includes a special session where participants have the possibility to present their latest activities. We believe this represents a great opportunity for Ph.D. students, researchers, and professionals to get feedback from experts in the field and enrich the collaboration network.
+
+The program includes also a (virtual) social event that gives to participants the opportunity to interact and have fun!
+
+For further details please visit  https://seschool-series.github.io/2020/program.html
+
+There are two registration options:
+- FULL: 80 EUR and includes attendance to all tutorials and students’ presentations
+- PARTIAL: 40 EUR and includes attendance to a single selected tutorial and students’ presentations
+
+The registration fees will be used to grant an honorarium to all the guest speakers for their valuable effort.
+Further details on the registration process are available at https://seschool-series.github.io/2020/registration.html
+
+The 6th edition of the school is organized by the Software and Systems Engineering Research Group of the Free University of Bozen-Bolzano (Italy) and the Department of Computer Science of the University of Innsbruck (Austria).
+
+** Steering Committee **
+Barbara Russo, Free University of Bozen-Bolzano, Italy
+Claus Pahl, Free University of Bozen-Bolzano, Italy
+Romain Robbes, Free University of Bozen-Bolzano, Italy
+Michael Felderer, University of Innsbruck, Austria
+
+** Organizing Committee **
+Matteo Camilli, Free University of Bozen-Bolzano, Italy
+Nabil El Ioini, Free University of Bozen-Bolzano, Italy
+Andrea Janes, Free University of Bozen-Bolzano, Italy
